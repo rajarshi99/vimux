@@ -1,0 +1,10 @@
+zsh exit Enter
+bash exit Enter
+vim :qall! Enter
+vi :qall! Enter
+cmus qy
+man q
+less q
+top q
+mpv q
+ranger q
