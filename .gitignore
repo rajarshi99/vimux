@@ -1,3 +1,5 @@
 .config/nvim/lazy-lock.json
 .config/nvim/plugin
 .term/place.txt
+.tmux/plugins
+.tmux/plugins/tpm
