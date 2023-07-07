@@ -9,3 +9,7 @@ ln -s $HERE/.tmux .tmux
 
 # Terminal folders
 ln -s $HERE/.term .term
+
+# Vim configs
+ln -s $HERE/.vim .vim
+ln -s $HERE/.vimrc .vimrc

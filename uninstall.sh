@@ -9,3 +9,7 @@ rm -rf .tmux
 
 # Terminal folders
 rm -rf .term
+
+# Vim configs
+rm3 -rf .vim
+rm3 -rf .vimrc
