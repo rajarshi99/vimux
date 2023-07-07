@@ -11,5 +11,5 @@ rm -rf .tmux
 rm -rf .term
 
 # Vim configs
-rm3 -rf .vim
-rm3 -rf .vimrc
+rm -rf .vim
+rm -rf .vimrc
