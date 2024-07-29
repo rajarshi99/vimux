@@ -13,3 +13,6 @@ ln -s $HERE/.term .term
 # Vim configs
 ln -s $HERE/.vim .vim
 ln -s $HERE/.vimrc .vimrc
+
+# Emacs folder
+ln -s $HERE/.config/emacs .config/emacs

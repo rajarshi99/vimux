@@ -13,3 +13,6 @@ rm -rf .term
 # Vim configs
 rm -rf .vim
 rm -rf .vimrc
+
+# Emacs folder
+rm -rf .config/emacs
