@@ -18,5 +18,7 @@ set hlsearch
 set showcmd
 set nosmd
 
+set clipboard=unnamedplus
+
 highlight ColorColumn ctermbg=238
 highlight SpellBad ctermbg=238

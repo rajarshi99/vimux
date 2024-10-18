@@ -24,7 +24,8 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'ervandew/supertab'
 
 "Going to files
-Plug 'junegunn/fzf'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
 
 "List of buffers and nice line
 Plug 'vim-airline/vim-airline'
