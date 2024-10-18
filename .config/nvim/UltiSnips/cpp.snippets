@@ -1,0 +1,24 @@
+snippet inc "Hash include" bA
+#include<${1:iostream}>
+endsnippet
+ 
+snippet main "Normal main function" b
+int main()
+{
+	$0
+	return 0;
+}
+endsnippet
+
+snippet mainn "Arguementative main function" bA
+int main(int argc, char ** argv)
+{
+	$0
+	return 0;
+}
+endsnippet
+
+snippet for
+for($1; ${1/(\w+).*/$1/}$2; ${1/(\w+).*/$1/}$3)$4
+endsnippet
+
