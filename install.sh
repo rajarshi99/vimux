@@ -16,3 +16,6 @@ ln -s $HERE/.vimrc .vimrc
 
 # Emacs folder
 ln -s $HERE/.config/emacs .config/emacs
+
+# Kitty configs
+ln -s $HERE/.config/kitty .config/kitty

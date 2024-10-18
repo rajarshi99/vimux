@@ -16,3 +16,6 @@ rm -rf .vimrc
 
 # Emacs folder
 rm -rf .config/emacs
+
+# Kitty configs
+rm -rf .config/kitty
